@@ -1,0 +1,27 @@
+body {
+    background-color: #eae0d5;
+}
+
+.navbar {
+    background-color: #22333b !important;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.main-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    color: #22333b;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+.main-text img {
+    width: 150px;
+}
